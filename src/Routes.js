@@ -12,16 +12,16 @@ function PrivateRoute({ path, component, ...rest }) {
         return <Route path={path} component={ component } { ...rest } />
     }
     else {
-        return <Redirect to="/login" { ...rest } />
+        return <Redirect exact to="/" { ...rest } />
     }
 }
 
 export default function Routes() {
     return (
         <Switch>
-            <PrivateRoute exact path="/" component={Home} />
+            <PrivateRoute path="/inicio" component={Home} />
             <PrivateRoute path="/favs" component={FavPage} />
-            <Route path="/login" component={LoginPage} />
+            <Route exact path="/" component={LoginPage} />
         </Switch>
     )
 }

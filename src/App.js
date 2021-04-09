@@ -7,13 +7,13 @@ function App() {
   return (
     <div>
       <div className="nav-bar">
-        <NavLink className="link" activeClassName="active" exact to="/">
+        <NavLink className="link" activeClassName="active" to="/inicio">
           Inicio
         </NavLink>
         <NavLink className="link" activeClassName="active" to="/favs">
           Favoritos
         </NavLink>
-        <NavLink className="link" activeClassName="active" to="/login">
+        <NavLink className="link" activeClassName="active" exact to="/">
           Login
         </NavLink>
       </div>

@@ -28,6 +28,8 @@ function Home({ chars,  removeCharacterAction, addFavoritesAction }) {
     return (
         <div className={styles.container}>
             <h2>Personajes de Rick y Morty</h2>
+            <p className="home-p">Toca la imagen del <font color="red">Lado Derecho</font> para pasar al <b>Siguiente</b></p>
+            <p className="home-p">O del <font color="green">Lado Izquierdo</font> para agregar al personaje a <b>Favoritos</b></p>
             <div>
                 {renderCharacter()}
             </div>
