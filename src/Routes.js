@@ -21,7 +21,7 @@ export default function Routes() {
         <Switch>
             <PrivateRoute path="/inicio" component={Home} />
             <PrivateRoute path="/favs" component={FavPage} />
-            <Route exact path="/" component={LoginPage} />
+            <Route path="/rickandmorty-favs" component={LoginPage} />
         </Switch>
     )
 }

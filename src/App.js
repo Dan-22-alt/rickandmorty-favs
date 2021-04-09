@@ -13,7 +13,7 @@ function App() {
         <NavLink className="link" activeClassName="active" to="/favs">
           Favoritos
         </NavLink>
-        <NavLink className="link" activeClassName="active" exact to="/">
+        <NavLink className="link" activeClassName="active"  to="/rickandmorty-favs">
           Login
         </NavLink>
       </div>
