@@ -2,7 +2,7 @@
   "name": "tinder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Dan-22-alt.github.io/",
+  "homepage": "http://Dan-22-alt.github.io/rickandmorty-favs/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
