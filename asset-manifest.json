@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/rickandmorty-favs/static/css/main.dcd9b811.chunk.css",
-    "main.js": "/rickandmorty-favs/static/js/main.eecda040.chunk.js",
-    "main.js.map": "/rickandmorty-favs/static/js/main.eecda040.chunk.js.map",
-    "runtime-main.js": "/rickandmorty-favs/static/js/runtime-main.e3719bad.js",
-    "runtime-main.js.map": "/rickandmorty-favs/static/js/runtime-main.e3719bad.js.map",
-    "static/css/2.79a35eaf.chunk.css": "/rickandmorty-favs/static/css/2.79a35eaf.chunk.css",
-    "static/js/2.a98a3c37.chunk.js": "/rickandmorty-favs/static/js/2.a98a3c37.chunk.js",
-    "static/js/2.a98a3c37.chunk.js.map": "/rickandmorty-favs/static/js/2.a98a3c37.chunk.js.map",
-    "index.html": "/rickandmorty-favs/index.html",
-    "precache-manifest.7c5fb806f2e138eb087fb4539d47a355.js": "/rickandmorty-favs/precache-manifest.7c5fb806f2e138eb087fb4539d47a355.js",
-    "service-worker.js": "/rickandmorty-favs/service-worker.js",
-    "static/css/2.79a35eaf.chunk.css.map": "/rickandmorty-favs/static/css/2.79a35eaf.chunk.css.map",
-    "static/css/main.dcd9b811.chunk.css.map": "/rickandmorty-favs/static/css/main.dcd9b811.chunk.css.map",
-    "static/js/2.a98a3c37.chunk.js.LICENSE.txt": "/rickandmorty-favs/static/js/2.a98a3c37.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/rickandmorty-favs/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/static/css/main.ab8d5142.chunk.css",
+    "main.js": "/static/js/main.753e30ac.chunk.js",
+    "main.js.map": "/static/js/main.753e30ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5852b68f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5852b68f.js.map",
+    "static/css/2.9a9b1a2c.chunk.css": "/static/css/2.9a9b1a2c.chunk.css",
+    "static/js/2.c0631eed.chunk.js": "/static/js/2.c0631eed.chunk.js",
+    "static/js/2.c0631eed.chunk.js.map": "/static/js/2.c0631eed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10e745d242046ba4c11bea17e1e8263c.js": "/precache-manifest.10e745d242046ba4c11bea17e1e8263c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9a9b1a2c.chunk.css.map": "/static/css/2.9a9b1a2c.chunk.css.map",
+    "static/css/main.ab8d5142.chunk.css.map": "/static/css/main.ab8d5142.chunk.css.map",
+    "static/js/2.c0631eed.chunk.js.LICENSE.txt": "/static/js/2.c0631eed.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3719bad.js",
-    "static/css/2.79a35eaf.chunk.css",
-    "static/js/2.a98a3c37.chunk.js",
-    "static/css/main.dcd9b811.chunk.css",
-    "static/js/main.eecda040.chunk.js"
+    "static/js/runtime-main.5852b68f.js",
+    "static/css/2.9a9b1a2c.chunk.css",
+    "static/js/2.c0631eed.chunk.js",
+    "static/css/main.ab8d5142.chunk.css",
+    "static/js/main.753e30ac.chunk.js"
   ]
 }
