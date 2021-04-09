@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rickandmorty-favs/static/css/main.ab8d5142.chunk.css",
-    "main.js": "/rickandmorty-favs/static/js/main.7b40dbb5.chunk.js",
-    "main.js.map": "/rickandmorty-favs/static/js/main.7b40dbb5.chunk.js.map",
+    "main.js": "/rickandmorty-favs/static/js/main.50b4e806.chunk.js",
+    "main.js.map": "/rickandmorty-favs/static/js/main.50b4e806.chunk.js.map",
     "runtime-main.js": "/rickandmorty-favs/static/js/runtime-main.e3719bad.js",
     "runtime-main.js.map": "/rickandmorty-favs/static/js/runtime-main.e3719bad.js.map",
     "static/css/2.79a35eaf.chunk.css": "/rickandmorty-favs/static/css/2.79a35eaf.chunk.css",
     "static/js/2.c7a679d8.chunk.js": "/rickandmorty-favs/static/js/2.c7a679d8.chunk.js",
     "static/js/2.c7a679d8.chunk.js.map": "/rickandmorty-favs/static/js/2.c7a679d8.chunk.js.map",
     "index.html": "/rickandmorty-favs/index.html",
-    "precache-manifest.723fbfed5a4385ec9915be4328bbaaff.js": "/rickandmorty-favs/precache-manifest.723fbfed5a4385ec9915be4328bbaaff.js",
+    "precache-manifest.5ad12a9644363839ed6bfc15814faf2a.js": "/rickandmorty-favs/precache-manifest.5ad12a9644363839ed6bfc15814faf2a.js",
     "service-worker.js": "/rickandmorty-favs/service-worker.js",
     "static/css/2.79a35eaf.chunk.css.map": "/rickandmorty-favs/static/css/2.79a35eaf.chunk.css.map",
     "static/css/main.ab8d5142.chunk.css.map": "/rickandmorty-favs/static/css/main.ab8d5142.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.79a35eaf.chunk.css",
     "static/js/2.c7a679d8.chunk.js",
     "static/css/main.ab8d5142.chunk.css",
-    "static/js/main.7b40dbb5.chunk.js"
+    "static/js/main.50b4e806.chunk.js"
   ]
 }
